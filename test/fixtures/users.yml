@@ -1,0 +1,18 @@
+john:
+  first_name: "john"
+  last_name: "dow"
+  email: "somemail1@mail.com"
+  profile_name: "johndow"
+  encrypted_password: "$2a$10$Fh/Hm8RxDsuPTeBUr6864.GARlcmt7zF2WspaXGr3BIv2C27N.osq"
+
+jane:
+  first_name: "jane"
+  last_name: "dow"
+  email: "somemail2@mail.com"
+  profile_name: "janedow"
+
+mike:
+  first_name: "mike"
+  last_name: "dow"
+  email: "somemail3@mail.com"
+  profile_name: "mikedow"
