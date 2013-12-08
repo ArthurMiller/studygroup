@@ -16,7 +16,7 @@ group :test do
 end
 
 group :developement, :test do
-	gem 'pg'
+	gem 'sqlite3'
 end
 
 group :production do
